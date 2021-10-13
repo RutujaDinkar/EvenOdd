@@ -1,0 +1,2 @@
+# EvenOdd
+Without using array
